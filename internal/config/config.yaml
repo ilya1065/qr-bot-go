@@ -1,0 +1,3 @@
+api_url: http://api.qrserver.com/v1/create-qr-code/
+default_size: 400x400
+telegram_bot_token: "ВАШ_ТОКЕН_ТЕЛЕГРАМ"
